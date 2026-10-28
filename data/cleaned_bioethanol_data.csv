@@ -1,0 +1,59 @@
+substrate_type,substrate_concentration_g_L,pretreatment_used,microorganism_type,fermentation_method,fermentation_temperature_C,fermentation_pH,fermentation_time_h,ethanol_concentration_g_L
+Lignocellulosic Biomass,50.0,Yes,Non-Saccharomyces Yeast,Simultaneous Saccharification & Fermentation,41.0,4.9,96.0,21.45
+Lignocellulosic Biomass,75.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,40.0,5.0,72.0,20.92
+Lignocellulosic Biomass,100.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,40.0,5.0,120.0,28.9
+Lignocellulosic Biomass,125.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,40.0,5.0,144.0,35.91
+Lignocellulosic Biomass,150.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,40.0,5.0,168.0,34.9
+Lignocellulosic Biomass,100.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,40.0,5.0,120.0,28.7
+Lignocellulosic Biomass,125.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,40.0,5.0,144.0,38.23
+Lignocellulosic Biomass,150.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,40.0,5.0,168.0,37.55
+Agro-Industrial Waste,46.8,No,Non-Saccharomyces Yeast,Batch Fermentation,30.0,4.5,150.0,20.0
+Starch/Fructan Biomass,270.0,Yes,Genetically Engineered Yeast,Simultaneous Saccharification & Fermentation,34.0,4.5,96.0,84.3
+Algal Biomass,65.0,Yes,Non-Saccharomyces Yeast,Batch Fermentation,30.0,4.5,43.6,18.57
+Lignocellulosic Biomass,300.0,Yes,Genetically Engineered Yeast,Fed-Batch,34.0,4.5,72.0,84.3
+Lignocellulosic Biomass,300.0,Yes,Genetically Engineered Yeast,Fed-Batch,34.0,4.5,72.0,85.67
+Lignocellulosic Biomass,300.0,Yes,Genetically Engineered Yeast,Fed-Batch,34.0,4.5,84.0,77.0
+Lignocellulosic Biomass,10.0,Yes,Mixed/Co-culture,Simultaneous Saccharification & Fermentation,35.0,5.4,71.25,1.84
+Lignocellulosic Biomass,50.0,Yes,Mixed/Co-culture,Simultaneous Saccharification & Fermentation,35.0,5.4,71.25,9.78
+Lignocellulosic Biomass,190.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,30.0,5.28,71.25,69.2
+Lignocellulosic Biomass,250.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,30.0,5.28,96.0,84.7
+Lignocellulosic Biomass,163.26999999999998,Yes,Genetically Engineered Yeast,Batch Fermentation,30.0,6.0,96.0,21.9
+Lignocellulosic Biomass,163.26999999999998,Yes,Genetically Engineered Yeast,Batch Fermentation,30.0,6.0,96.0,21.5
+Lignocellulosic Biomass,105.0,Yes,Genetically Engineered Yeast,Simultaneous Saccharification & Fermentation,30.0,5.0,71.25,47.0
+Lignocellulosic Biomass,163.26999999999998,Yes,Non-Saccharomyces Yeast,Simultaneous Saccharification & Fermentation,30.0,5.28,71.25,36.92
+Lignocellulosic Biomass,163.26999999999998,Yes,Non-Saccharomyces Yeast,Simultaneous Saccharification & Fermentation,30.0,5.28,71.25,35.04
+Starch/Fructan Biomass,180.0,No,Wild-type S. cerevisiae,Batch Fermentation,30.0,5.28,36.0,36.2
+Agro-Industrial Waste,163.26999999999998,Yes,Wild-type S. cerevisiae,Batch Fermentation,40.0,5.5,12.0,36.85
+Lignocellulosic Biomass,41.0,Yes,Wild-type S. cerevisiae,Batch Fermentation,30.0,5.5,72.0,17.1
+Lignocellulosic Biomass,163.26999999999998,No,Wild-type S. cerevisiae,Batch Fermentation,30.0,5.5,120.0,44.0
+Agro-Industrial Waste,150.0,Yes,Wild-type S. cerevisiae,Batch Fermentation,30.0,5.28,48.0,41.0
+Starch/Fructan Biomass,163.26999999999998,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,34.0,5.28,72.0,116.5
+Lignocellulosic Biomass,120.0,Yes,Mixed/Co-culture,Simultaneous Saccharification & Fermentation,30.0,5.28,71.25,26.9
+Lignocellulosic Biomass,30.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,45.0,5.28,71.25,14.84
+Lignocellulosic Biomass,163.26999999999998,No,Wild-type S. cerevisiae,Batch Fermentation,30.0,5.28,72.0,118.35000000000001
+Agro-Industrial Waste,100.0,No,Wild-type S. cerevisiae,Batch Fermentation,30.0,5.28,144.0,68.5
+Starch/Fructan Biomass,100.0,No,Genetically Engineered Yeast,Simultaneous Saccharification & Fermentation,30.0,5.28,71.25,5.3
+Lignocellulosic Biomass,200.0,Yes,Non-Saccharomyces Yeast,Batch Fermentation,30.0,5.28,48.0,8.3
+Lignocellulosic Biomass,163.26999999999998,Yes,Genetically Engineered Yeast,Batch Fermentation,30.0,5.28,71.25,70.52
+Agro-Industrial Waste,163.26999999999998,Yes,Wild-type S. cerevisiae,Batch Fermentation,30.0,5.28,24.0,70.0
+Liquid/Sugar-rich Byproduct,172.31,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,34.0,88.05
+Liquid/Sugar-rich Byproduct,174.54,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,33.0,89.88
+Liquid/Sugar-rich Byproduct,173.08,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,32.0,88.68
+Liquid/Sugar-rich Byproduct,174.24,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,34.0,88.84
+Liquid/Sugar-rich Byproduct,173.52,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,32.0,91.76
+Liquid/Sugar-rich Byproduct,175.41,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,32.0,91.18
+Liquid/Sugar-rich Byproduct,154.2,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,28.0,77.08
+Liquid/Sugar-rich Byproduct,153.62,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,27.0,77.41
+Liquid/Sugar-rich Byproduct,154.23,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,26.0,76.53
+Liquid/Sugar-rich Byproduct,154.16,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,26.0,77.48
+Liquid/Sugar-rich Byproduct,176.25,No,Wild-type S. cerevisiae,Repeated-Batch,30.0,5.28,44.0,88.24
+Liquid/Sugar-rich Byproduct,204.3,No,Wild-type S. cerevisiae,Batch Fermentation,39.21,5.88,67.54,248.0
+Liquid/Sugar-rich Byproduct,228.9,No,Wild-type S. cerevisiae,Batch Fermentation,20.31,6.35,26.79,247.0
+Liquid/Sugar-rich Byproduct,218.4,No,Wild-type S. cerevisiae,Batch Fermentation,20.39,6.21,25.0,250.0
+Liquid/Sugar-rich Byproduct,175.2,No,Wild-type S. cerevisiae,Batch Fermentation,38.14,5.59,71.25,255.0
+Liquid/Sugar-rich Byproduct,202.3,No,Wild-type S. cerevisiae,Batch Fermentation,39.41,5.36,71.05,249.0
+Liquid/Sugar-rich Byproduct,206.8,No,Wild-type S. cerevisiae,Batch Fermentation,20.2,6.15,26.74,248.0
+Liquid/Sugar-rich Byproduct,220.2,No,Wild-type S. cerevisiae,Batch Fermentation,20.23,6.39,30.11,247.0
+Liquid/Sugar-rich Byproduct,250.0,No,Non-Saccharomyces Yeast,Batch Fermentation,30.0,5.5,72.0,56.0
+Lignocellulosic Biomass,50.0,No,Mixed/Co-culture,Simultaneous Saccharification & Fermentation,30.0,6.0,72.0,2.43
+Lignocellulosic Biomass,330.0,Yes,Wild-type S. cerevisiae,Simultaneous Saccharification & Fermentation,37.0,5.2,71.25,75.57
